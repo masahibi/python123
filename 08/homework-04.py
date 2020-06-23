@@ -1,31 +1,6 @@
-
 from dataclasses import *
 
-# with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-address.txt") as file:
-#     for line in file:
-#         data = line.split(",")
-        # print(f"{data[0]}、{data[1]}、{data[2]}、{data[3]}、{data[4]}")
-        # with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-sample.txt",encoding="UTF8",mode="a") as file:
-        #     file.write(f"{data[0]},{data[1]},{data[2]},{data[3]},{data[4]}\n")
 
-def load():
-    with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-address.txt") as file:
-        list = []
-        for line in file:
-            data = line.split(",")
-            list.append(data)
-            print(list)
-    for x in list:
-        print(x)
-    return list
-# load("男")
-
-def save(data):
-    with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-sample.txt", encoding="UTF8", mode="a") as file:
-        for x in data:
-            file.write(f"{x}\n")
-save(load())
-"""
 @dataclass
 class TelephonBook:
     name: str
@@ -34,14 +9,40 @@ class TelephonBook:
     remark: str
     member: str
 
-i = input("name?")
-# 初期化
-tb = [
-    TelephonBook("A", "a@aaa.com", "aaaa-aaaa", "2020/01/01", "サークルA"),
-    TelephonBook("B", "b@bbb.com", "bbbb-bbbb", "2020/02/01", "サークルB"),
-    TelephonBook("C", "c@ccc.com", "cccc-cccc", "2020/03/01", "サークルC")
-]
-for x in tb:
-    if i == x.name:
-        print(f"{x.name},{x.mail},{x.tel},{x.remark},{x.member}")
-"""
+
+def load(new):
+    address = []
+    with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-address.txt", encoding="UTF8") as file:
+        for line in file:
+            info = line.rstrip("\n")    # 改行を消す
+            data = info.split(",")    # リストにする
+            address.append(data)
+        print(address)  # 追加前
+    new = [new.name, new.mail, new.tel, new.remark, new.member]
+    address.append(new)
+    print(address)  # 追加後
+    return address
+
+
+def save(address):
+    # with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-sample.txt", encoding="UTF8", mode="a") as file:
+    with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-address.txt", encoding="UTF8", mode="w") as file:
+        for x in address:
+            file.write(f"{x[0]},{x[1]},{x[2]},{x[3]},{x[4]}\n")
+
+
+def add():
+    name = input("名前：")
+    mail = input("メールアドレス：")
+    tel = input("電話番号：")
+    remark = input("誕生日：")
+    member = input("サークル：")
+
+    new_address = TelephonBook(name, mail, tel, remark, member)
+    return new_address
+
+
+new_address = add()
+address = load(new_address)
+save(address)
+
