@@ -8,5 +8,5 @@ def is_recerved(a):
 i = input()
 rist = eval(i)
 print(is_recerved(rist))
-
+#
 

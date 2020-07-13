@@ -30,5 +30,5 @@ while True:
     else:
         print(f"あなたの負け：ー{betting_point}ポイント")
         this_point -= betting_point
-
+#
 

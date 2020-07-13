@@ -5,7 +5,7 @@ print(f"最小値：{min(values)}")
 print(f"平均値：{sum(values) / len(values)}")
 for x in values:
     print(f'{"*" * round(x)}：{x}' )
-
+#
 
 
 

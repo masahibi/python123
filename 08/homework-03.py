@@ -41,3 +41,4 @@ number = eval(input("枚数目?\n"))  # [2,4]
 hand = new_cards(stock, number, first_hand)  # 手札交換
 print(f"山札の枚数：{len(stock)}")  # 山札の枚数
 print(f"交換後の手札：{hand}")  # 交換後の手札
+#

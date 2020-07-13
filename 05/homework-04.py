@@ -18,3 +18,4 @@ for x in range(10):
     p = (x + 1) * -5
     s = (x + 1) * 10
     draw_rect(t, p, p*2, s, s * 2)
+#

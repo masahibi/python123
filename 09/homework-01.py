@@ -80,3 +80,4 @@ def score(student):  # 実際に書くグラフ
 
 student = int(input("(1)Alice (2)Bob (3)Charley："))
 score(student)
+#

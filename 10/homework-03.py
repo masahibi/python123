@@ -20,3 +20,4 @@ def blossom(t,red,green,blue,i):
 i = int(input("回数："))
 blossom(t,1,0.8,0.8,i)
 
+#

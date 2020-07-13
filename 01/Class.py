@@ -9,3 +9,4 @@ tax_rate = 0.08
 print(f"total = {total}")
 print(f"tax = {total * tax_rate}")
 print(f"合計 = {total * (1 + tax_rate)}")
+#

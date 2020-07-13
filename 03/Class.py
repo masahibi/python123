@@ -101,6 +101,6 @@ elif int(i) >= 60:
     print("合格")
 else:
     print("不合格")
-
+#
 
 

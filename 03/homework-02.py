@@ -31,3 +31,4 @@ while True:
         break
     else:
         print(f"入力された選択肢{answer2}は正しくありません")
+#

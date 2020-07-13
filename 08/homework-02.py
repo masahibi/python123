@@ -50,3 +50,4 @@ def total_max_point(student):
 
 print(max_point(score()))
 print(total_max_point(score()))
+#

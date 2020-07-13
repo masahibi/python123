@@ -21,7 +21,7 @@ c_tax_price = c_total_price * (1 + tax)    #1080
 print(f"Aさん；税別:{a_total_price}円, 税込:{a_tax_price:.0f}円")
 print(f"Bさん；税別:{b_total_price}円, 税込:{b_tax_price:.0f}円")
 print(f"Cさん；税別:{c_total_price}円, 税込:{c_tax_price:.0f}円")
-
+#
 
 
 

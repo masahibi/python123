@@ -26,3 +26,4 @@ while True:
     screen.update()  # 更新（ここで描画される）
     time.sleep(delay)  # 描画停止
     t.clear()  # 画面クリア
+#

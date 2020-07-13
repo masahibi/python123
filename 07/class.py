@@ -42,7 +42,7 @@ with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\numbers.txt", 
 #with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\target.txt", mode="w") as file:
 #    for number in numbers:
 #        file.write(f"{number}\n")
-
+#
 
 
 

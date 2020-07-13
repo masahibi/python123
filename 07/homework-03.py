@@ -9,5 +9,5 @@ with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\06-extract-in_
 
         with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\20k1026-06-extract.txt",mode="a") as file:
             file.write(f"{data[0]},{data[1]}\n")
-
+#
 

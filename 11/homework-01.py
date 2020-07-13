@@ -20,3 +20,4 @@ while True:
         print(dict[key])
     else:
         print("単語が登録されていません")
+#

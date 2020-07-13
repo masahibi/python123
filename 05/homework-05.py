@@ -32,3 +32,4 @@ def list_max(a):
 i = input("入れ子リスト：")
 aa = eval(i)
 print(list_max(aa))
+#

@@ -45,5 +45,5 @@ while True:
 
     else:
         print("正しく入力してください")
-
+#
 

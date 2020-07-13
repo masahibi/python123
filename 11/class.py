@@ -68,3 +68,4 @@ while True:
         print("正解の数字で割り切れる")
     if number % value == 0:
         print("正解の数字の倍数")
+#

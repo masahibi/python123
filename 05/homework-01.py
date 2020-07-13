@@ -12,3 +12,4 @@ if has_negative(values):
     print("負の値が含まれる")
 else:
     print("負の値が含まれない")
+#

@@ -15,3 +15,4 @@ with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\20k1026-06-tur
             t.down()
         if data[0] == "GOTO":
             t.goto(float(data[1]),float(data[2]))
+#

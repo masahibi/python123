@@ -16,3 +16,4 @@ print(f"EUR={eur}")
 print(f"小数点以下0桁:{eur:.0f}")
 print(f"小数点以下1桁:{eur:.1f}")
 print(f"小数点以下2桁:{eur:.2f}")
+#

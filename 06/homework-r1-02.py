@@ -54,3 +54,4 @@ if place == 4:    # 新大阪
         print(f"合計{prices[0] + prices[1] - 520}")
     else:    # 購入なし
         print(f"合計{prices[0]}円")
+#

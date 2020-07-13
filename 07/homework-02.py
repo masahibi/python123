@@ -8,3 +8,4 @@ with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\07\20k1026-06-reg
             continue
         total = total + float(data[1]) * float(data[2])    # total = 0 + "単価" * 個数
     print(f"合計：{total}")
+#

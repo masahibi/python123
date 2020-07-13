@@ -72,3 +72,4 @@ while True:
     if count2 == 1:
         print("あなたの負けです")
         break
+#

@@ -68,3 +68,4 @@ with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\10\data.csv") as 
         t4.goto(-80 + a, -20)
         t4.write(data[0])
         a = a + 60
+#

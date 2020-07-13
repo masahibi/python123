@@ -106,4 +106,4 @@ class Card:
 
 card = Card("spade",1)
 print(f"カード：{card}")
-
+#

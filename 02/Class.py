@@ -4,7 +4,8 @@
 totvaluesl=0
 print(totvaluesl)
 totvaluesl=totvaluesl+1
-print(total)
+# print(total)
+total = 0
 total=total+2
 print(total)
 total=total+3

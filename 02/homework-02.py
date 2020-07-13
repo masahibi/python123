@@ -7,3 +7,4 @@ pattern2 = ((pat1 + pat0) * 8 + "\n") * 2
 flag = (pattern1 + pattern2) * 4
 
 print(flag)
+#

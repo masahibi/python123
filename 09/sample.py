@@ -8,3 +8,4 @@ for x in values:
 with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\09\text.txt",mode="w") as file:
     for x in result:
         file.write(f"{x}\n")
+#

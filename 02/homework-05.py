@@ -4,3 +4,4 @@ deta = {"001-0010":"北海道札幌市北十条西", "252-1127":"神奈川県綾
 postal_code = input("ここに郵便番号を入力してください(000-0000):")
 
 print(f"郵便番号:{postal_code} ; 住所:{deta[postal_code]}")
+#
