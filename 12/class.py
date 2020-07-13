@@ -180,4 +180,3 @@ counter = 0
 
 
 canvas.mainloop()  # 処理の後に書く
-#
