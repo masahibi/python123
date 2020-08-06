@@ -1,6 +1,5 @@
 from dataclasses import *
 
-
 @dataclass
 class TelephonBook:
     name: str
@@ -8,7 +7,6 @@ class TelephonBook:
     tel: str
     remark: str
     member: str
-
 
 def load(new):
     address = []
@@ -23,13 +21,11 @@ def load(new):
     print(address)  # 追加後
     return address
 
-
 def save(address):
     # with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-sample.txt", encoding="UTF8", mode="a") as file:
     with open(r"C:\Users\admin\OneDrive\デスクトップ\python1\08\20k1026-07-address.txt", encoding="UTF8", mode="w") as file:
         for x in address:
             file.write(f"{x[0]},{x[1]},{x[2]},{x[3]},{x[4]}\n")
-
 
 def add():
     name = input("名前：")
@@ -40,7 +36,6 @@ def add():
 
     new_address = TelephonBook(name, mail, tel, remark, member)
     return new_address
-
 
 new_address = add()
 address = load(new_address)

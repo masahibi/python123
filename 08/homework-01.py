@@ -1,6 +1,5 @@
 from dataclasses import *
 
-
 @dataclass
 class Item:
     name: str
@@ -19,8 +18,7 @@ def total_price(item):
 items = [
     Item("リンゴ", 100, 0.08),  # Item(name,price,tax)
     Item("ブドウ", 150, 0.08),
-    Item("オレンジ", 200, 0.10)
-]
+    Item("オレンジ", 200, 0.10)]
 
 total_price(items)
 #

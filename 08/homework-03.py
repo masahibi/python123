@@ -1,12 +1,10 @@
 import random
 from dataclasses import *
 
-
 @dataclass
 class Card:
     suit: str
     rank: int
-
 
 def new_stock():  # 山札作成
     stock = []  # リストの初期化
@@ -16,7 +14,6 @@ def new_stock():  # 山札作成
     random.shuffle(stock)
     return stock
 
-
 def new_hand(stock):  # 最初の手札
     cards = []
     for x in range(5):
@@ -24,14 +21,12 @@ def new_hand(stock):  # 最初の手札
         cards.append(card)
     return cards
 
-
 def new_cards(stock, number, hand):  # 交換手札
     cards = hand  # 変える前の手札
     for x in number:    # [2,4]
         card = stock.pop()  # 山札を捨てる
         hand[x] = card    # ｘ番目のカードを山札のに変える
     return cards
-
 
 stock = new_stock()  # 初期化   山札
 first_hand = new_hand(stock)  # 最初の手札

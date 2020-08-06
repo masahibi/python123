@@ -4,13 +4,11 @@ count = 0  # 最後のbreak 用
 index = [1, 2, 3, 4, 5, 6, 7, 8, 9]  # def pc 専用
 number = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]  # インデックス番号の調整がめんどくさいため、0を設けた"
 
-
 def field(number):
     print(f"{number[1]} | {number[2]} | {number[3]}\nー  ー  ー")
     print(f"{number[4]} | {number[5]} | {number[6]}\nー  ー  ー")
     print(f"{number[7]} | {number[8]} | {number[9]}")
     print("---------------------------------------------------")
-
 
 def player(number, mark):
     while True:
@@ -21,14 +19,12 @@ def player(number, mark):
             break
     number[locate] = mark
 
-
 def pc(number, mark, index):
     while True:
         locate = random.choice(index)
         if number[locate] != "〇" and number[locate] != "×":
             break
     number[locate] = mark
-
 
 def result(number, mark, count):
     if number[5] == mark:
@@ -42,7 +38,6 @@ def result(number, mark, count):
         if (number[3] == mark and number[6] == mark) or (number[7] == mark and number[8] == mark):
             count = 1
     return count
-
 
 "-----------------------------------------------------------------------------"
 # ゲームスタート

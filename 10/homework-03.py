@@ -1,9 +1,9 @@
 import turtle
 t = turtle.Pen()
 
-def blossom(t,red,green,blue,i):
-    t.color(1,0,0)
-    t.fillcolor(red,green,blue)
+def blossom(t, red, green, blue, i):
+    t.color(1, 0, 0)
+    t.fillcolor(red, green, blue)
     t.begin_fill()
     t.left(90)
     for x in range(i):
@@ -18,6 +18,6 @@ def blossom(t,red,green,blue,i):
     t.end_fill()
 
 i = int(input("回数："))
-blossom(t,1,0.8,0.8,i)
+blossom(t, 1, 0.8, 0.8, i)
 
 #

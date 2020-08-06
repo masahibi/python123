@@ -20,6 +20,5 @@ def check(t,red,green,blue):
                     t.left(90)
             t.end_fill()
 
-
 check(t,0,0,1)
 #

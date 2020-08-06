@@ -1,6 +1,5 @@
 from dataclasses import *
 
-
 @dataclass
 class Result:
     name: str
@@ -8,15 +7,12 @@ class Result:
     science: int
     english: int
 
-
 def score():
     results = [
         Result("Alice", 100, 65, 57),
         Result("Bob", 45, 98, 100),
-        Result("Charley", 50, 50, 50)
-    ]
+        Result("Charley", 50, 50, 50)]
     return results
-
 
 def max_point(student):
     m_score = 0
@@ -37,7 +33,6 @@ def max_point(student):
             e_name = x.name
     return f"数学:{m_name}、物理:{s_name}、英語:{e_name}"
 
-
 def total_max_point(student):
     total = 0
     name = ""
@@ -46,7 +41,6 @@ def total_max_point(student):
             total = x.math + x.science + x.english
             name = x.name
     return f"総合:{name}"
-
 
 print(max_point(score()))
 print(total_max_point(score()))

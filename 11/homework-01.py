@@ -9,7 +9,6 @@ def load_dictionary():
                 results[k] = v
     return results
 
-
 dict = load_dictionary()
 while True:
     print("-------------------------------")

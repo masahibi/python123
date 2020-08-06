@@ -1,6 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3a6a41b-974a-4b54-a975-adcd0f6025b0" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/homework-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/homework-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/homework-03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/homework-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/homework-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/homework-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/homework-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/homework-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/homework-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/homework-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/homework-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/homework-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/homework-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/homework-03.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="aaac80bc-9175-4dd9-bdec-914acbf6a17c" />
+  <component name="ProjectId" id="1ecOHOeYf8PJzOKBlHUhQp10j9h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.homework-01 (2)">
+    <configuration name="homework-01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/homework-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework-01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/homework-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/homework-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework-02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/homework-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/homework-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework-01 (2)" />
+        <item itemvalue="Python.homework-02 (1)" />
+        <item itemvalue="Python.homework-01 (1)" />
+        <item itemvalue="Python.homework-02" />
+        <item itemvalue="Python.homework-01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a6a41b-974a-4b54-a975-adcd0f6025b0" name="Default Changelist" comment="" />
+      <created>1594617325410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594617325410</updated>
+      <workItem from="1594617326816" duration="16736000" />
+      <workItem from="1594794879118" duration="751000" />
+      <workItem from="1594798543525" duration="4436000" />
+      <workItem from="1595074228897" duration="6967000" />
+      <workItem from="1595144569834" duration="2065000" />
+      <workItem from="1595172526714" duration="35000" />
+      <workItem from="1595203576034" duration="14777000" />
+      <workItem from="1595320209766" duration="3489000" />
+      <workItem from="1595583527345" duration="773000" />
+      <workItem from="1595691670368" duration="299000" />
+      <workItem from="1595750837301" duration="2251000" />
+      <workItem from="1595959951708" duration="2476000" />
+      <workItem from="1596723524258" duration="19000" />
+      <workItem from="1596723573938" duration="80000" />
+      <workItem from="1596723714011" duration="744000" />
+      <workItem from="1596724904667" duration="480000" />
+      <workItem from="1596725642532" duration="628000" />
+      <workItem from="1596727508913" duration="97000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1594617404723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594617404723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="101" key="#Plugins" timestamp="1596723761485">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="361" y="101" key="#Plugins/0.0.1536.920@0.0.1536.920" timestamp="1596723761485" />
+    <state x="449" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596723616894">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="449" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.920@0.0.1536.920" timestamp="1596723616894" />
+    <state x="395" y="47" key="CommitChangelistDialog2" timestamp="1596725162548">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="395" y="47" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1596725162548" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1596725377310">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1596725377310" />
+    <state x="647" y="358" key="Github.ShareDialog" timestamp="1596727577313">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="647" y="358" key="Github.ShareDialog/0.0.1536.920@0.0.1536.920" timestamp="1596727577313" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1595985736875">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1318" height="261" key="GridCell.Tab.0.bottom/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
+    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1595985736875">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1318" height="261" key="GridCell.Tab.0.center/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
+    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1595985736874">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1318" height="261" key="GridCell.Tab.0.left/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
+    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1595985736874" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1595985736875">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1318" height="261" key="GridCell.Tab.0.right/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
+    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1596723849199">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1596723849199" />
+    <state x="0" y="0" width="1134" height="636" key="dock-window-1" timestamp="1594630267189">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="0" y="0" width="1134" height="636" key="dock-window-1/0.0.1536.920@0.0.1536.920" timestamp="1594630267189" />
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1594628570510">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="431" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1536.920@0.0.1536.920" timestamp="1594628570510" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12/homework-04.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python1$class.coverage" NAME="class Coverage Results" MODIFIED="1594623757354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_02.coverage" NAME="homework-02 Coverage Results" MODIFIED="1595144766905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_01__1_.coverage" NAME="homework-01 (1) Coverage Results" MODIFIED="1595250403231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13" />
+    <SUITE FILE_PATH="coverage/python1$homework_02__1_.coverage" NAME="homework-02 (1) Coverage Results" MODIFIED="1595960009915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13" />
+    <SUITE FILE_PATH="coverage/python1$homework_01.coverage" NAME="homework-01 Coverage Results" MODIFIED="1595144683264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_04.coverage" NAME="homework-04 Coverage Results" MODIFIED="1595081821384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_03.coverage" NAME="homework-03 Coverage Results" MODIFIED="1595076650410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_01__2_.coverage" NAME="homework-01 (2) Coverage Results" MODIFIED="1595960020738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07" />
   </component>
 </project>
