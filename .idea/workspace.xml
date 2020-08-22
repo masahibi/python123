@@ -20,29 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3a6a41b-974a-4b54-a975-adcd0f6025b0" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/homework-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/homework-02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/homework-03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/homework-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/homework-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/homework-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/試験用/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/試験用/sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/homework-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/homework-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/homework-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/08/homework-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/homework-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/homework-04.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/homework-04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11/homework-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/homework-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/11/homework-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/homework-03.py" beforeDir="false" afterPath="$PROJECT_DIR$/03/homework-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +61,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.homework-01 (2)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\python1\試験用" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sample (1)">
     <configuration name="homework-01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,12 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/homework-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10/homework-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework-01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework-01 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/homework-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/homework-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework-02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/試験用" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/homework-02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/試験用/sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/homework-02.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\admin\PycharmProjects\python1\試験用\sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework-01 (2)" />
-        <item itemvalue="Python.homework-02 (1)" />
-        <item itemvalue="Python.homework-01 (1)" />
-        <item itemvalue="Python.homework-02" />
+        <item itemvalue="Python.sample (1)" />
+        <item itemvalue="Python.sample" />
         <item itemvalue="Python.homework-01" />
+        <item itemvalue="Python.homework-01 (3)" />
+        <item itemvalue="Python.homework-01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +218,12 @@
       <workItem from="1596724904667" duration="480000" />
       <workItem from="1596725642532" duration="628000" />
       <workItem from="1596727508913" duration="97000" />
+      <workItem from="1596727678495" duration="1192000" />
+      <workItem from="1596729140737" duration="102000" />
+      <workItem from="1597853150912" duration="7000" />
+      <workItem from="1597888905821" duration="4060000" />
+      <workItem from="1597969193083" duration="73000" />
+      <workItem from="1598002913175" duration="8646000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1594617404723</created>
@@ -239,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594617404723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1596727772768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596727772768</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,10 +263,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="101" key="#Plugins" timestamp="1596723761485">
+    <state x="361" y="101" key="#Plugins" timestamp="1597969218634">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="101" key="#Plugins/0.0.1536.920@0.0.1536.920" timestamp="1596723761485" />
+    <state x="361" y="101" key="#Plugins/0.0.1536.920@0.0.1536.920" timestamp="1597969218634" />
+    <state x="549" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597892707320">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="549" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.920@0.0.1536.920" timestamp="1597892707320" />
     <state x="449" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596723616894">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -283,30 +287,50 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="647" y="358" key="Github.ShareDialog/0.0.1536.920@0.0.1536.920" timestamp="1596727577313" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom" timestamp="1595985736875">
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom" timestamp="1598024157636">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1318" height="261" key="GridCell.Tab.0.bottom/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
-    <state width="1493" height="241" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center" timestamp="1595985736875">
+    <state width="1493" height="300" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1598024157636" />
+    <state width="1493" height="300" key="GridCell.Tab.0.center" timestamp="1598024157635">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1318" height="261" key="GridCell.Tab.0.center/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
-    <state width="1493" height="241" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left" timestamp="1595985736874">
+    <state width="1493" height="300" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1598024157635" />
+    <state width="1493" height="300" key="GridCell.Tab.0.left" timestamp="1598024157635">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1318" height="261" key="GridCell.Tab.0.left/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
-    <state width="1493" height="241" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1595985736874" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right" timestamp="1595985736875">
+    <state width="1493" height="300" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1598024157635" />
+    <state width="1493" height="300" key="GridCell.Tab.0.right" timestamp="1598024157636">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1318" height="261" key="GridCell.Tab.0.right/0.0.1360.979@0.0.1360.979" timestamp="1595144786420" />
-    <state width="1493" height="241" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1595985736875" />
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1596723849199">
+    <state width="1493" height="300" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1598024157636" />
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom" timestamp="1598024157637">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1596723849199" />
+    <state width="1493" height="300" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1598024157637" />
+    <state width="1493" height="300" key="GridCell.Tab.1.center" timestamp="1598024157637">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1598024157637" />
+    <state width="1493" height="300" key="GridCell.Tab.1.left" timestamp="1598024157636">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1598024157636" />
+    <state width="1493" height="300" key="GridCell.Tab.1.right" timestamp="1598024157637">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="1493" height="300" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1598024157637" />
+    <state x="277" y="105" key="SettingsEditor" timestamp="1597891610973">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="277" y="105" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1597891610973" />
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2" timestamp="1596728201211">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="361" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.920@0.0.1536.920" timestamp="1596728201211" />
     <state x="0" y="0" width="1134" height="636" key="dock-window-1" timestamp="1594630267189">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -324,17 +348,35 @@
           <line>57</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12/homework-01.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10/homework-03.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/試験用/sample.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python1$class.coverage" NAME="class Coverage Results" MODIFIED="1594623757354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
     <SUITE FILE_PATH="coverage/python1$homework_02.coverage" NAME="homework-02 Coverage Results" MODIFIED="1595144766905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/python1$homework_01__1_.coverage" NAME="homework-01 (1) Coverage Results" MODIFIED="1595250403231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13" />
+    <SUITE FILE_PATH="coverage/python1$homework_01__1_.coverage" NAME="homework-01 (1) Coverage Results" MODIFIED="1597889219726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10" />
+    <SUITE FILE_PATH="coverage/python1$homework_01__3_.coverage" NAME="homework-01 (3) Coverage Results" MODIFIED="1597891621550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/python1$homework_02__1_.coverage" NAME="homework-02 (1) Coverage Results" MODIFIED="1595960009915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13" />
-    <SUITE FILE_PATH="coverage/python1$homework_01.coverage" NAME="homework-01 Coverage Results" MODIFIED="1595144683264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/python1$homework_04.coverage" NAME="homework-04 Coverage Results" MODIFIED="1595081821384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
-    <SUITE FILE_PATH="coverage/python1$homework_03.coverage" NAME="homework-03 Coverage Results" MODIFIED="1595076650410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$sample.coverage" NAME="sample Coverage Results" MODIFIED="1597969234879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python1$sample__1_.coverage" NAME="sample (1) Coverage Results" MODIFIED="1598024157554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/試験用" />
+    <SUITE FILE_PATH="coverage/python1$homework_01.coverage" NAME="homework-01 Coverage Results" MODIFIED="1597891632616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_04.coverage" NAME="homework-04 Coverage Results" MODIFIED="1597889206687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12" />
+    <SUITE FILE_PATH="coverage/python1$homework_03.coverage" NAME="homework-03 Coverage Results" MODIFIED="1597888972457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/python1$homework_01__2_.coverage" NAME="homework-01 (2) Coverage Results" MODIFIED="1595960020738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07" />
   </component>
 </project>
